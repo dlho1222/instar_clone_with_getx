@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046759577345",
+    "project_id": "firebase-instar-clone",
+    "storage_bucket": "firebase-instar-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046759577345:android:021d339e63d4a6acc9ed00",
+        "android_client_info": {
+          "package_name": "com.example.instar_clone_with_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046759577345-k3h4beqm202nscfoo6cdshfbms10al11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBppM-e37OlHH4iRGZtqJ29QQLGZgYDYcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046759577345-k3h4beqm202nscfoo6cdshfbms10al11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
