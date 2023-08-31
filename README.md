@@ -1,6 +1,6 @@
 # instar_clone_with_getx
 
-A new Flutter project.
+insta_clone_with_getX + firebase
 
 ## Getting Started
 
